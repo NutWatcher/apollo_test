@@ -1,0 +1,19 @@
+{
+  "name": "apollo_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lyy",
+  "license": "MIT",
+  "scripts": {
+    "start": "node start.js",
+    "watch": "nodemon start.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.7.0",
+    "graphql": "^14.4.2",
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
