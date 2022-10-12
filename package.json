@@ -9,7 +9,7 @@
     "watch": "nodemon start.js"
   },
   "dependencies": {
-    "apollo-server": "^2.7.0",
+    "apollo-server": "^2.25.4",
     "graphql": "^14.4.2"
   },
   "devDependencies": {
